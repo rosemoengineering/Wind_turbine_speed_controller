@@ -4,4 +4,4 @@ First of all you need to arduino libraries ( Encoderzip and Arduino-PID-Library-
 Encoder resolution is 1024 and you can watch the application of the code in youyube.
 Youtube link:
 
-https://youtu.be/InDBcEYGPN0
+https://www.youtube.com/watch?v=DRz0EGqbx7w
